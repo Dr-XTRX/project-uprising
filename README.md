@@ -1,7 +1,7 @@
 project-uprising
 ================
 
-<font size="6">Info</font>  <br>
+<h1>Info</h1>  <br>
 Game Developers: Bohemia Interactive<br>
 Mod Name: Altis Life<br>
 Mod Developer: [Tonic] https://github.com/TAWTonic/<br>
