@@ -10,7 +10,6 @@ project-uprising
 
 <h2>Initial Developers</h2>
 <h2>Special thanks</h2>
-<ul>
 <ul><li>Bohemia Interactive http://www.bistudio.com/</li>
 <li>Tonic https://github.com/TAWTonic/</li></ul>
-</ul>
+
