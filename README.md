@@ -1,7 +1,5 @@
 project-uprising
 ================
-
-<h2>Info</h2>
 Game Developers: Bohemia Interactive<br>
 Mod Name: Altis Life<br>
 Mod Developer: [Tonic] https://github.com/TAWTonic/<br>
