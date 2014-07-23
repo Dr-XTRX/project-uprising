@@ -1,6 +1,8 @@
 project-uprising
 ================
 <ul><li>Game Developers: Bohemia Interactive</li>
+<li>Mod Developer: Tonic</li>
+<li>Mod Edited By: TH3C0RE</li>
 <li>Mod Name: Altis Life</li>
 <li>Version: 3.1.4</li></ul>
 
