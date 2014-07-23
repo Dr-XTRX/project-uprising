@@ -7,4 +7,6 @@ Mod Name: Altis Life<br>
 Mod Developer: [Tonic] https://github.com/TAWTonic/<br>
 Mod Edited By: TH3C0RE https://github.com/TH3C0RE<br>
 Version: 3.1.4<br>
-<h2>CREDITS</h2>
+<h2>Included Custom Addons</h2>
+<h2>Initial Developers</h2>
+<h2>Special thanks</h2>
