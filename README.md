@@ -9,3 +9,7 @@ Version: 3.1.4</li><br>
 <h2>Included Custom Addons</h2>
 <h2>Initial Developers</h2>
 <h2>Special thanks</h2>
+
+<ul>
+  <li>Mod Name: Altis Life</li>
+</ul>
