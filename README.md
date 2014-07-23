@@ -9,4 +9,3 @@ project-uprising
 <h2>Included Custom Addons</h2>
 <h2>Initial Developers</h2>
 <h2>Special thanks</h2>
-
